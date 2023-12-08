@@ -37,5 +37,5 @@ WinGen это скрипт, который позволяет генериров
 ![image](https://github.com/misha99fr/WinGen/assets/83592338/5d0aa725-8b9c-4c7a-8940-b56dd63a32a5)
 
 
-[А вот собственно сам сайт]([https://github.com/misha99fr/WinGen])
+[А вот собственно сам сайт](https://github.com/misha99fr/WinGen)
 
